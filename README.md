@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Student currently doing computer Science and is going for software development.
 ------------------------------------
 
-🚀 What I Do<br>- 🌐 Full-Stack Web Development (React.js, Node.js, Next.js, Restful API)<br>- 🧠 Learning Data Structures & Algorithms (Java and Python)<br>- ☁️ Exploring DevOps, AWS, and CI/CD<br>- 📊 Open to collaborative projects and contributing to open source<br><br>🖥️  See my portfolio at https://a-portfolio-website-steel.vercel.app/
+🚀 What I Do<br>- 🌐 Full-Stack Web Development (React.js, Node.js, Next.js, Restful API)<br>- 🧠 Learning Data Structures & Algorithms (Java and Python)<br>- ☁️ Exploring DevOps, AWS, and CI/CD<br>- 📊 Open to collaborative projects and contributing to open source<br><br>🖥️  See my portfolio at https://portfolio-seven-bice-jmqetbva7t.vercel.app/
 
 
 ## 🌐 Socials:
