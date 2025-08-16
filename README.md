@@ -143,11 +143,9 @@ const aryan = {
 <br clear="right"/>
 
 ### 💻 SAAS Code Editor - Real-Time Collaboration Platform
-<div align="center">
   
 [![SAAS Code Editor](https://github-readme-stats.vercel.app/api/pin/?username=aryanrai97861&repo=SAAS-Code-Editor&theme=tokyonight&hide_border=true&title_color=00D4FF&icon_color=00D4FF)](https://github.com/aryanrai97861/SAAS-Code-Editor)
 
-</div>
 
 <img align="left" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="300" alt="Coding Animation" />
 
@@ -263,7 +261,7 @@ graph TD
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Achievements" width="30" /> Achievements & Certifications
 
-<div align="center">
+<div align="left">
 
 <img src="https://user-images.githubusercontent.com/74038190/212746053-249e5465-24c5-4964-bd2f-65d80da20027.gif" width="100" />
 
@@ -293,10 +291,9 @@ graph TD
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/in/aryanrai97861)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://aryanrai-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/aryan-kumar-rai-a3547430b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://portfolio-seven-bice-jmqetbva7t.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:aryanrai97861@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000)](https://github.com/aryanrai97861)
 
 </div>
 
